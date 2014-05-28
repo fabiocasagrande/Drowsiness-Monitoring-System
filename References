@@ -1,0 +1,20 @@
+
+In this project I used on open source code.
+
+Regarding the Eye Tracking app, I used OpenCV, in particular the one modified by Roman Hošek.
+Here is the Link:
+http://romanhosek.cz/android-eye-detection-and-tracking-with-opencv
+I made my own adjustment by adding few lines of code that allowed me to connect the android tablet to the arduino 
+through bluetooth connection.
+
+OpenCV Link:
+http://opencv.org/
+
+
+I used the open source Arduino microcontroller:
+here is the link:
+http://arduino.cc/
+
+I used the open source 4D Systems 4.3 screen software:
+here is the link:
+http://www.4dsystems.com.au/product/uLCD_43/
