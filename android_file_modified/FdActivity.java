@@ -77,7 +77,7 @@ public class FdActivity extends Activity {
 	  private static final UUID MY_UUID =
 	      UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
 
-	  // Insert of the  bluetooth devices (MAC address)
+	  // Insert the address of the bluetooth Module (MAC address)
 	  private static String address = "00:00:12:06:58:74";
 	  //------------------------------------------------------------------------------------------------
 	  class FdView extends SampleCvViewBase {
