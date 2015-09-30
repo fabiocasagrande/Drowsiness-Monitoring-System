@@ -3,9 +3,6 @@ Drowsiness-Monitoring-System
 
 Drowsiness Monitoring System using Arduino microcontrollers,an Android Tablet,and a 4D Systems LCD Display
 
-Hi all,
-
-My name is Fabio Casagrande and I am an Electrical and Computer Engineer graduated from New York Institute of Technology. 
 This is a project I did in my Senior Design class. I want to share it in order to help other students that have similar
 projects to mine.
 
@@ -22,10 +19,3 @@ Bluetooth Module: Allows the connection between the android tablet and the Ardui
 Arduino(master): takes actions according to the data received from the bluetooth module.
 Arduino(Slave): Car simulator.I made a simple electrical circuit composed by 5 LEDs and 2 7-Segment digital displays.
 4D LCD Display: Displays the current states according to the data received from the Arduino(Master).
-
-
-
-YOU CAN FIND DESCRIPTION,SCHEMATICS,AND DIAGRAMS AS WELL AS DOWNLOAD AND THE WHOLE PROJECT AT: 
-
-http://fabiocasagrande.github.io/
-
