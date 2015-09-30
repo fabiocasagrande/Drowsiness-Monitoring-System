@@ -1,0 +1,190 @@
+﻿Version     0.0
+Platform    uLCD-43PT-L
+PlatRes     272x480
+Depends
+end
+Options
+    Genie
+    Speed                        200000
+    Checksum                     No
+    ResponseSize                 2
+    Multidrop                    No
+    Destination                  1
+    SndBuf                       0
+end
+Form
+    Name                         Form0
+    Bgtype                       Image
+    Color                        BLACK
+    Image                        background.jpg
+    Source.Height                330
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 599
+    OnActivate                   ''
+    OnCreate                     ''
+    OnRepeat                     ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Image
+    Name                         Image0
+    Height                       99
+    Image                        connection.png
+    Left                         68
+    Source.Height                94
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 433
+    Visible                      Yes
+    Top                          124
+    Width                        364
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Form
+    Name                         Form1
+    Bgtype                       Image
+    Color                        BLACK
+    Image                        background.jpg
+    Source.Height                340
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 600
+    OnActivate                   ''
+    OnCreate                     ''
+    OnRepeat                     ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Image
+    Name                         Image1
+    Height                       93
+    Image                        'EYES DETECTED.png'
+    Left                         76
+    Source.Height                94
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 433
+    Visible                      Yes
+    Top                          128
+    Width                        337
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Form
+    Name                         Form2
+    Bgtype                       Image
+    Color                        BLACK
+    Image                        background.jpg
+    Source.Height                340
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 600
+    OnActivate                   ''
+    OnCreate                     ''
+    OnRepeat                     ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Image
+    Name                         Image2
+    Height                       96
+    Image                        'No eyes detected.png'
+    Left                         60
+    Source.Height                94
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 433
+    Visible                      Yes
+    Top                          124
+    Width                        364
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Form
+    Name                         Form3
+    Bgtype                       Image
+    Color                        BLACK
+    Image                        background.jpg
+    Source.Height                342
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 600
+    OnActivate                   ''
+    OnCreate                     ''
+    OnRepeat                     ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Image
+    Name                         Image3
+    Height                       93
+    Image                        'volume up.png'
+    Left                         72
+    Source.Height                94
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 433
+    Visible                      Yes
+    Top                          120
+    Width                        356
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Form
+    Name                         Form4
+    Bgtype                       Image
+    Color                        BLACK
+    Image                        background.jpg
+    Source.Height                343
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 600
+    OnActivate                   ''
+    OnCreate                     ''
+    OnRepeat                     ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Image
+    Name                         Image4
+    Height                       88
+    Image                        'stopping the car.png'
+    Left                         60
+    Source.Height                94
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 433
+    Visible                      Yes
+    Top                          120
+    Width                        367
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Form
+    Name                         Form5
+    Bgtype                       Color
+    Color                        BLACK
+    Image                        (None)
+    Source.Height                0
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 0
+    OnActivate                   ''
+    OnCreate                     ''
+    OnRepeat                     ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
